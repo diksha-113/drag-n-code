@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD14D1h5wGjPTEwFq371B6DUVE_ipbDKjA',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:636680563980:web:bc2b62dc5db5a5864bad29',
     messagingSenderId: '636680563980',
     projectId: 'dragncode-64fd3',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDLfAfU1EUgz1PibM4pbc4FijtckjmC4Gs',
+    apiKey: 'YOUR_API_KE',
     appId: '1:636680563980:android:bc724408fc6cf2f84bad29',
     messagingSenderId: '636680563980',
     projectId: 'dragncode-64fd3',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD14D1h5wGjPTEwFq371B6DUVE_ipbDKjA',
+    apiKey: 'YOUR_API_KE',
     appId: '1:636680563980:web:bc2b62dc5db5a5864bad29',
     messagingSenderId: '636680563980',
     projectId: 'dragncode-64fd3',
