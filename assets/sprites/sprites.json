@@ -1,0 +1,67 @@
+[
+  {
+    "id": "dog",
+    "name": "Dog",
+    "assetPath": "assets/sprites/dog.png",
+    "x": -100,
+    "y": -50,
+    "direction": 90,
+    "visible": true,
+    "rotationStyle": "allAround",
+    "bubbleText": null,
+    "variables": {},
+    "lists": {}
+  },
+  {
+    "id": "alien",
+    "name": "Alien",
+    "assetPath": "assets/sprites/alien.png",
+    "x": 100,
+    "y": -50,
+    "direction": 90,
+    "visible": true,
+    "rotationStyle": "allAround",
+    "bubbleText": null,
+    "variables": {},
+    "lists": {}
+  },
+  {
+    "id": "ball",
+    "name": "Ball",
+    "assetPath": "assets/sprites/ball.png",
+    "x": -100,
+    "y": 50,
+    "direction": 90,
+    "visible": true,
+    "rotationStyle": "allAround",
+    "bubbleText": null,
+    "variables": {},
+    "lists": {}
+  },
+  {
+    "id": "star",
+    "name": "Star",
+    "assetPath": "assets/sprites/star.png",
+    "x": 100,
+    "y": 50,
+    "direction": 90,
+    "visible": true,
+    "rotationStyle": "allAround",
+    "bubbleText": null,
+    "variables": {},
+    "lists": {}
+  },
+  {
+    "id": "cat",
+    "name": "Cat",
+    "assetPath": "assets/sprites/cat.svg",
+    "x": 0,
+    "y": 0,
+    "direction": 90,
+    "visible": true,
+    "rotationStyle": "allAround",
+    "bubbleText": null,
+    "variables": {},
+    "lists": {}
+  }
+]
