@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636680563980",
+    "project_id": "dragncode-64fd3",
+    "storage_bucket": "dragncode-64fd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636680563980:android:bc724408fc6cf2f84bad29",
+        "android_client_info": {
+          "package_name": "com.example.dragncode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLfAfU1EUgz1PibM4pbc4FijtckjmC4Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
